@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Study Sphere AI
 
-## Getting Started
+> Your Digital Classroom — Learn. Collaborate. Grow.
 
-First, run the development server:
+Study Sphere AI is a modern, collaborative study platform designed to bring learning, course resources, interactive lessons, peer collaboration, and AI-powered assistance into one digital classroom.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The project focuses on creating a clean, premium, technology-driven learning experience for students.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Overview
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Students often use multiple platforms for lectures, notes, study groups, coding practice, discussions, and doubt solving.
 
-## Learn More
+**Study Sphere AI** aims to bring these experiences together in one unified platform.
 
-To learn more about Next.js, take a look at the following resources:
+The platform is being developed with a focus on:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 📚 Structured learning
+- 👥 Collaborative study
+- 🤖 AI-assisted learning
+- 💻 Interactive coding lessons
+- 📝 Practice and revision
+- 📊 Learning progress
+- 🎯 Personalized academic workflows
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🚀 Current Features
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🏠 Dashboard
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+A centralized student dashboard providing access to learning activities and subjects.
+
+### 📚 My Subjects
+
+Students can browse their subjects and access dedicated learning spaces.
+
+### 💻 Data Structures Learning
+
+The current implementation includes a dedicated Data Structures learning module with:
+
+- Stacks & Queues
+- Chapter-based learning
+- Lesson navigation
+- Progress tracking
+- Concept explanations
+- C programming examples
+- Practice questions
+- Course navigation
+
+### 🧠 Interactive Lessons
+
+Lessons are designed around a structured learning flow:
+
+```text
+Concept
+   ↓
+Visual Explanation
+   ↓
+Implementation
+   ↓
+Practice
+   ↓
+Completion
